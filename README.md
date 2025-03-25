@@ -7,3 +7,4 @@
  En el ejercico 4 se crea clase llamada TarjetaCrédito que  almacena el número de una tarjeta y verifica su validez usando el algoritmo de Luhn. Tiene un método estático que realiza la validación y otro que la aplica al número de la tarjeta
  
  En el ejercio 5 crea una clase llamada Producto que almacena un nombre y un precio ,usan métodosque almacena un nombre y un precio, asegurando que el precio siempre sea mayor que cero. También permite cambiar el precio, aplicar descuentos y acceder al nombre y precio de forma controlada. Se utilizan métodos privados para manejar errores y se aplican validaciones para evitar valores incorrectos.
+ 
